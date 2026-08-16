@@ -1,6 +1,6 @@
 # Spatiotemporal Assessment of Groundwater Level Fluctuations in Nashik District (2005–2019)
 
-Course project for **ES 680: GIS for Environmental Planning and Management**, Centre of Studies in Resources Engineering (CSRE), IIT Bombay — under the guidance of Prof. Anil Kumar Dikshit.
+Course project for **ES 680: GIS for Environmental Planning and Management** — under the guidance of Prof. Anil Kumar Dikshit.
 
 ## Overview
 
